@@ -69,13 +69,4 @@ When we strive to become better than we are, everything around us becomes better
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingbond470&show_icons=true&locale=en" alt="kingbond470" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingbond470&" alt="kingbond470" /></p>
-
-### GitHub
-[More Stats](https://profile-summary-for-github.com/user/Kingbond470)
-<img src="https://github.com/Kingbond470/Android-Practice/blob/main/MoveOnPlaystore/stats_github.png" />
-
 <a href="https://www.buymeacoffee.com/kingbond470" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
